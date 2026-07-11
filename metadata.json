@@ -1,0 +1,6 @@
+{
+  "name": "Aether",
+  "description": "A clean, dark-mode weather, sunrise/sunset, and astronomical event dashboard inspired by atmospheric glassmorphism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
